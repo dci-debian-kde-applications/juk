@@ -1,0 +1,13 @@
+Index: juk/scrobbler.cpp
+===================================================================
+--- juk.orig/scrobbler.cpp	2014-07-27 19:35:29.832039902 +0200
++++ juk/scrobbler.cpp	2014-07-27 19:56:15.442940286 +0200
+@@ -230,6 +230,8 @@
+ 
+     QNetworkRequest req(url);
+     req.setHeader(QNetworkRequest::ContentTypeHeader, "application/x-www-form-urlencoded");
++    if (!m_networkAccessManager)
++        m_networkAccessManager = new QNetworkAccessManager(this);
+     QNetworkReply *reply = m_networkAccessManager->post(req, data);
+     connect(reply, SIGNAL(finished()), this, SLOT(handleResults()));
+ }

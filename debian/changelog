@@ -1,6 +1,7 @@
 juk (4:4.13.3-1~) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * New patch: scrobbler_initialize_m_networkAccessManager
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 25 Jul 2014 18:32:05 +0200
 
