@@ -24,7 +24,7 @@ License: GPL-2+
 
 Files: mpris2/*
 Copyright: 2012, Eike Hein <hein@kde.org>
-License:
+License: GPL-2 or GPL-3 or GPL-KDEeV
  This program is free software; you can redistribute it and/or
  modify it under the terms of the GNU General Public License as
  published by the Free Software Foundation; either version 2 of

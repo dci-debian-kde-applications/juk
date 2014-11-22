@@ -1,7 +1,7 @@
 Source: juk
 Section: kde
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Pino Toscano <pino@debian.org>,
            Sune Vuorela <sune@debian.org>,
            Maximiliano Curia <maxy@debian.org>
