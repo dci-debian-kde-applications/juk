@@ -1,8 +1,8 @@
-juk (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
+juk (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 10:09:28 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:08:55 -0700
 
 juk (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
