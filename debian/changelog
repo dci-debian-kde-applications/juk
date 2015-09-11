@@ -1,6 +1,7 @@
 juk (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.08.0).
+  * Add libsoprano-dev build dep.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 19:33:59 +0200
 
