@@ -1,8 +1,9 @@
-juk (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
+juk (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 15 Apr 2015 14:08:31 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 09:34:20 -0700
 
 juk (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
