@@ -1,8 +1,18 @@
 juk (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
 
+  [ Philip Muškovac ]
+  * Merge with debian git master
+
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:31:43 +0000
+
+juk (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:27 +0100
 
 juk (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -15,6 +25,13 @@ juk (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:12:54 +0100
+
+juk (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.08.0).
+  * Add libsoprano-dev build dep.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 12 Sep 2015 00:35:16 +0200
 
 juk (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -29,6 +46,21 @@ juk (4:15.07.90-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 09:30:05 +0100
 
+juk (4:15.04.3-1) experimental; urgency=medium
+
+  * Team upload.
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.04.2).
+
+  [ Jeremy Lainé ]
+  * New upstream release (15.04.3).
+  * Add lintian overrides.
+
+ -- Jeremy Lainé <jeremy.laine@m4x.org>  Tue, 28 Jul 2015 15:06:17 +0200
+
 juk (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
@@ -40,11 +72,24 @@ juk (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:28:51 +0200
 
+juk (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:20 +0200
+
 juk (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:08:55 -0700
+
+juk (4:14.12.2-1) experimental; urgency=medium
+
+  * Prepare Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 17 Feb 2015 10:37:32 +0100
 
 juk (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
