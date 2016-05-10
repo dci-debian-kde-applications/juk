@@ -1,6 +1,6 @@
-juk (4:16.04.0-1~2.gbp46939c) UNRELEASED; urgency=medium
+juk (4:16.04.1-1~1.gbp6af1c1) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @46939cd11904ebac6c7df6c33471b9479ed56011 **
+  ** SNAPSHOT build @6af1c178c5de004928d01fb304f178b76844eff7 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @5f75df947df0b7fb9e6a88554103eca172aa72b6 **
@@ -11,8 +11,9 @@ juk (4:16.04.0-1~2.gbp46939c) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:20:17 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:20:19 +0200
 
 juk (4:15.12.0-1) experimental; urgency=medium
 
