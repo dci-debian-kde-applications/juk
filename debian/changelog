@@ -1,19 +1,14 @@
-juk (4:16.04.1-1~1.gbp6af1c1) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @6af1c178c5de004928d01fb304f178b76844eff7 **
+juk (4:16.04.1-1) experimental; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @5f75df947df0b7fb9e6a88554103eca172aa72b6 **
-
   * Bump Standards-Version to 3.9.8
   * Refresh patches
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:20:19 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 15:46:28 +0200
 
 juk (4:15.12.0-1) experimental; urgency=medium
 
