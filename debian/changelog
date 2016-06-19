@@ -1,10 +1,8 @@
-juk (4:16.04.2-1~1.gbp101b2d) UNRELEASED; urgency=medium
+juk (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @101b2da839bf0ee72eb1789d81ca8e9148eeb413 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 00:20:12 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 19 Jun 2016 11:05:23 +0200
 
 juk (4:16.04.1-2) unstable; urgency=medium
 
