@@ -1,10 +1,8 @@
-juk (4:16.08.3-1~1.gbpffe16d) UNRELEASED; urgency=medium
+juk (4:16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @ffe16d46c32d3a114f9974278921ca2dd4e9eddc **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 11 Nov 2016 00:20:13 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 20:54:24 +0100
 
 juk (4:16.08.2-1) unstable; urgency=medium
 
