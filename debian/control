@@ -41,8 +41,8 @@ Section: sound
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: k3b
-Breaks: kdemultimedia-dev (<< 4:4.10)
-Replaces: kdemultimedia-dev (<< 4:4.10)
+Breaks: ${kde-l10n:all}, kdemultimedia-dev (<< 4:4.10)
+Replaces: ${kde-l10n:all}, kdemultimedia-dev (<< 4:4.10)
 Description: music jukebox / music player
  JuK is a powerful music player capable of managing a large music collection.
  .
