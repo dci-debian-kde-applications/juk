@@ -17,6 +17,7 @@ juk (4:17.12.2-0r1) UNRELEASED; urgency=medium
   * Use https for Format in copyright.
   * Break/replace against kde-l10n that ships translations.
   * Enable the test suite, which should work.
+  * Remove the autopkgtests, since the test suite is run at build time now.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 10 Feb 2018 10:23:41 +0100
 
