@@ -14,6 +14,7 @@ juk (4:17.12.2-0r1) UNRELEASED; urgency=medium
   * Use the right makefile class:
     - use debian-qt-kde.mk v3
     - bump the pkg-kde-tools build dependency to >= 0.15.16
+  * Use https for Format in copyright.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 10 Feb 2018 10:23:41 +0100
 
