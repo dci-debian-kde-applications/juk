@@ -11,6 +11,9 @@ juk (4:17.12.2-0r1) UNRELEASED; urgency=medium
       libkf5kio-dev, libkf5notifications-dev, libkf5textwidgets-dev,
       libkf5wallet-dev, libkf5widgetsaddons-dev, libkf5windowsystem-dev,
       libkf5xmlgui-dev, libphonon4qt5-dev, and libphonon4qt5experimental-dev
+  * Use the right makefile class:
+    - use debian-qt-kde.mk v3
+    - bump the pkg-kde-tools build dependency to >= 0.15.16
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 10 Feb 2018 10:23:41 +0100
 
